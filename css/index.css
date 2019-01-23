@@ -1,0 +1,12 @@
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  body {
+      padding: 10;
+  }
+
+  #siteHeader{
+      background-color: rgb(226, 19, 19);
+  }
