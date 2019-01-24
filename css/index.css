@@ -3,9 +3,7 @@ img {
     height: auto;
   }
 
-  body {
-      padding: 10;
-  }
+  
 
   #siteHeader{
       background-color: rgb(226, 19, 19);
@@ -14,3 +12,7 @@ img {
   footer {
       background-color: rgb(58, 56, 56)
   }
+
+  .pad {
+      margin: 10;  
+    }
